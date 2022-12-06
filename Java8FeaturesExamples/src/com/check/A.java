@@ -8,7 +8,8 @@ public class A implements I{
 		System.out.println("M1 of A");
 	}
 
-	@Override
+	
+        @Override
 	public void m2() {
 		// TODO Auto-generated method stub
 		System.out.println("Data Override");
